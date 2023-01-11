@@ -1,0 +1,35 @@
+h1 {
+                color: brown;
+            }
+
+            * {
+                border: solid;
+            }
+.header {
+    background-color: rgb(197, 20, 61);
+    display:flex;
+    justify-content:space-between;
+    font-size:130%
+    font-family"Arial";
+    color:#3f9237;
+    word-spacing:10px;
+}
+.description{
+    background-color:#675234;
+}
+  .games{background-color:#36a0bb;
+display:flex;
+flex-wrap:wrap;
+justify-content: space-evenly;
+}
+
+.footer{
+    background-color:#3f9237;
+    display:flex;
+    justify-content: flex-end;
+}
+
+body{background-color:#808080}
+
+
+        
